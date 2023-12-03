@@ -66,3 +66,14 @@
 footer a:hover {
   text-decoration: underline;
 }
+/* ESERCIZIO */
+
+.bookmarks{
+  fill: none;
+  stroke-width: 50px
+}
+
+.bookmarks:hover{
+  cursor: pointer;
+  fill: #909193;
+}
