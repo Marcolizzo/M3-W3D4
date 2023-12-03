@@ -68,16 +68,22 @@ footer a:hover {
 }
 /* ESERCIZIO */
 
-.bookmarks{
+.bookmarks {
   fill: none;
   stroke-width: 50px;
 }
 
-.bookmarks:hover{
+.bookmarks:hover {
   cursor: pointer;
   fill: #909193;
 }
 
-.card.border-0.shadow.rounded-3.h-100:hover{
+.card.border-0.shadow.rounded-3.h-100 {
+  transition: 0.2s;
+}
+
+.card.border-0.shadow.rounded-3.h-100:hover {
   cursor: pointer;
+  transform: scale(1.2);
+  z-index: 2;
 }
