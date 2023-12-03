@@ -1,0 +1,68 @@
+.profile__img {
+  max-width: 39px;
+}
+
+.notifications {
+  background-color: rgb(235, 235, 237);
+  color: gray;
+  font-size: 18px;
+  padding: 10px;
+}
+
+.badge_notifications {
+  padding: 4px;
+  top: 12px;
+  left: 29px;
+}
+
+.badge_profile {
+  padding: 4px;
+  top: 32px;
+  left: 32px;
+}
+
+.navbar-toggler {
+  max-height: 40px;
+}
+
+.cards_profile__img {
+  max-width: 35px;
+}
+
+.bi.bi-bar-chart-fill {
+  color: blueviolet;
+}
+
+.carousel-control-prev,
+.carousel-control-next {
+  width: 4%;
+}
+
+.hero {
+  background-color: rgb(117, 80, 254);
+}
+
+.icon_info {
+  color: rgb(211, 166, 113);
+}
+
+.icon_info ion-icon,
+.icon_info i {
+  background-color: rgb(255, 238, 218);
+}
+
+.card-body h5 {
+  font-size: 18px;
+}
+
+.stars {
+  font-size: 12px;
+}
+
+.punteggio {
+  font-size: 14px;
+}
+
+footer a:hover {
+  text-decoration: underline;
+}
